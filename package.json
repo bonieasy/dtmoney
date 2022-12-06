@@ -1,6 +1,5 @@
 {
   "name": "dtmoney",
-  "homepage": "https://bonieasy.github.io/dtmoney",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
